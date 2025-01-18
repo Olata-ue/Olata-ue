@@ -9,7 +9,7 @@
 					margin-left: auto;
 					margin-right: auto;
 				}-->	
-				h1:hover {
+				h1{
 					animation: shake 0.5s;
 					animation-iteration-count: infinite;
 				}
