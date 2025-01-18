@@ -25,7 +25,7 @@
 					100% { transform: translate(1px, -2px) rotate(-1deg); }
 				}	
 			</style>
-			<img src="hello.webp">
+			<img src="hello.webp"/>
 		</div>
 	</foreignObject>
 </svg>
