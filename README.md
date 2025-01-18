@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="hello.svg">
+  <img src="hello.webp">
 </div>
 <!--
 - My name is Olata
